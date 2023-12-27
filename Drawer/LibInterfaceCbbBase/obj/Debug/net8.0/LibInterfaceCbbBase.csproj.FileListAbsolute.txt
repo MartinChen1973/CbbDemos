@@ -1,0 +1,11 @@
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\bin\Debug\net8.0\LibInterfaceCbbBase.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\bin\Debug\net8.0\LibInterfaceCbbBase.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\bin\Debug\net8.0\LibInterfaceCbbBase.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\refint\LibInterfaceCbbBase.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\LibInterfaceCbbBase.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfaceCbbBase\obj\Debug\net8.0\ref\LibInterfaceCbbBase.dll

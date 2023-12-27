@@ -1,0 +1,15 @@
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\bin\Debug\net8.0\LibInterfacesOfColors.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\bin\Debug\net8.0\LibInterfacesOfColors.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\bin\Debug\net8.0\LibInterfacesOfColors.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\refint\LibInterfacesOfColors.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\ref\LibInterfacesOfColors.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\bin\Debug\net8.0\LibInterfaceCbbBase.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\bin\Debug\net8.0\LibInterfaceCbbBase.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfColors\obj\Debug\net8.0\LibInterfacesOfColors.csproj.CopyComplete

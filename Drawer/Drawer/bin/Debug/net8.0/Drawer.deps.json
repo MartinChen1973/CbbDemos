@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Drawer/1.0.0": {
+        "dependencies": {
+          "LibInterfacesOfColors": "1.0.0",
+          "LibInterfacesOfShapes": "1.0.0"
+        },
+        "runtime": {
+          "Drawer.dll": {}
+        }
+      },
+      "LibInterfaceCbbBase/1.0.0": {
+        "runtime": {
+          "LibInterfaceCbbBase.dll": {}
+        }
+      },
+      "LibInterfacesOfColors/1.0.0": {
+        "dependencies": {
+          "LibInterfaceCbbBase": "1.0.0"
+        },
+        "runtime": {
+          "LibInterfacesOfColors.dll": {}
+        }
+      },
+      "LibInterfacesOfShapes/1.0.0": {
+        "dependencies": {
+          "LibInterfaceCbbBase": "1.0.0"
+        },
+        "runtime": {
+          "LibInterfacesOfShapes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drawer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInterfaceCbbBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInterfacesOfColors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInterfacesOfShapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

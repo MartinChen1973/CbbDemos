@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawer", "Drawer.csproj", "{A298C042-EED8-44D3-B710-58B9FBEB3D84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibInterfacesOfShapes", "..\LibInterfacesOfShapes\LibInterfacesOfShapes.csproj", "{078EAB41-496A-4CCB-837D-097927356625}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibInterfacesOfColors", "..\LibInterfacesOfColors\LibInterfacesOfColors.csproj", "{A7E5537F-A355-45E2-B334-46232F4F2FFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibColorBlue", "..\LibColorBlue\LibColorBlue.csproj", "{ABD31FC8-C4C2-4006-8A97-08D095F678B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibColorRed", "..\LibColorRed\LibColorRed.csproj", "{BB628818-8B3B-4B2E-BC33-39F5939C8295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibShapeCircle", "..\LibShapeCircle\LibShapeCircle.csproj", "{ED52244E-A5BC-4EA2-B51B-5BB8483598FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibShapeRectangle", "..\LibShapeRectangle\LibShapeRectangle.csproj", "{F547BB59-7D5C-41DB-9AA2-C43BCFC334EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibInterfaceCbbBase", "..\LibInterfaceCbbBase\LibInterfaceCbbBase.csproj", "{CDB72D85-1759-4D64-A103-A925FB85B78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A298C042-EED8-44D3-B710-58B9FBEB3D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A298C042-EED8-44D3-B710-58B9FBEB3D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A298C042-EED8-44D3-B710-58B9FBEB3D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A298C042-EED8-44D3-B710-58B9FBEB3D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078EAB41-496A-4CCB-837D-097927356625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078EAB41-496A-4CCB-837D-097927356625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078EAB41-496A-4CCB-837D-097927356625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078EAB41-496A-4CCB-837D-097927356625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E5537F-A355-45E2-B334-46232F4F2FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E5537F-A355-45E2-B334-46232F4F2FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E5537F-A355-45E2-B334-46232F4F2FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E5537F-A355-45E2-B334-46232F4F2FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD31FC8-C4C2-4006-8A97-08D095F678B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD31FC8-C4C2-4006-8A97-08D095F678B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD31FC8-C4C2-4006-8A97-08D095F678B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD31FC8-C4C2-4006-8A97-08D095F678B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB628818-8B3B-4B2E-BC33-39F5939C8295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB628818-8B3B-4B2E-BC33-39F5939C8295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB628818-8B3B-4B2E-BC33-39F5939C8295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB628818-8B3B-4B2E-BC33-39F5939C8295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED52244E-A5BC-4EA2-B51B-5BB8483598FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED52244E-A5BC-4EA2-B51B-5BB8483598FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED52244E-A5BC-4EA2-B51B-5BB8483598FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED52244E-A5BC-4EA2-B51B-5BB8483598FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F547BB59-7D5C-41DB-9AA2-C43BCFC334EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F547BB59-7D5C-41DB-9AA2-C43BCFC334EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F547BB59-7D5C-41DB-9AA2-C43BCFC334EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F547BB59-7D5C-41DB-9AA2-C43BCFC334EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB72D85-1759-4D64-A103-A925FB85B78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB72D85-1759-4D64-A103-A925FB85B78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB72D85-1759-4D64-A103-A925FB85B78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB72D85-1759-4D64-A103-A925FB85B78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E987D85C-E190-4703-A439-EDE5CECA8365}
+	EndGlobalSection
+EndGlobal

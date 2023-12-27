@@ -1,0 +1,13 @@
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeCircle.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeCircle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeCircle.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.csproj.CopyComplete
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\refint\LibShapeCircle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\LibShapeCircle.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeCircle\obj\Debug\net8.0\ref\LibShapeCircle.dll

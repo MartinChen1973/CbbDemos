@@ -1,0 +1,15 @@
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\bin\Debug\net8.0\LibInterfacesOfShapes.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\bin\Debug\net8.0\LibInterfacesOfShapes.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\bin\Debug\net8.0\LibInterfacesOfShapes.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\refint\LibInterfacesOfShapes.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\ref\LibInterfacesOfShapes.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\bin\Debug\net8.0\LibInterfaceCbbBase.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\bin\Debug\net8.0\LibInterfaceCbbBase.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibInterfacesOfShapes\obj\Debug\net8.0\LibInterfacesOfShapes.csproj.CopyComplete

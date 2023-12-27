@@ -1,0 +1,13 @@
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeRectangle.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeRectangle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibShapeRectangle.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.csproj.CopyComplete
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\refint\LibShapeRectangle.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\LibShapeRectangle.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibShapeRectangle\obj\Debug\net8.0\ref\LibShapeRectangle.dll

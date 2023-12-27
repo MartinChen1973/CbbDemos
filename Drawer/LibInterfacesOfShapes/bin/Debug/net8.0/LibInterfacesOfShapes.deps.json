@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibInterfacesOfShapes/1.0.0": {
+        "dependencies": {
+          "LibInterfaceCbbBase": "1.0.0"
+        },
+        "runtime": {
+          "LibInterfacesOfShapes.dll": {}
+        }
+      },
+      "LibInterfaceCbbBase/1.0.0": {
+        "runtime": {
+          "LibInterfaceCbbBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibInterfacesOfShapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInterfaceCbbBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

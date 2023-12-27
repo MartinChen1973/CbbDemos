@@ -1,0 +1,13 @@
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorBlue.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorBlue.dll
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorBlue.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.csproj.CopyComplete
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\refint\LibColorBlue.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\LibColorBlue.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorBlue\obj\Debug\net8.0\ref\LibColorBlue.dll

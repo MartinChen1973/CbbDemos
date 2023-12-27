@@ -1,0 +1,13 @@
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorRed.deps.json
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorRed.dll
+W:\ProjectCSharp\CbbDemos\Graphics\Drawer\bin\Debug\net8.0\LibColorRed.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.csproj.AssemblyReference.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.csproj.CopyComplete
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\refint\LibColorRed.dll
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\LibColorRed.pdb
+W:\ProjectCSharp\CbbDemos\Graphics\LibColorRed\obj\Debug\net8.0\ref\LibColorRed.dll

@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfacesOfShapes\\LibInterfacesOfShapes.csproj": {}
+  },
+  "projects": {
+    "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\LibInterfaceCbbBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\LibInterfaceCbbBase.csproj",
+        "projectName": "LibInterfaceCbbBase",
+        "projectPath": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\LibInterfaceCbbBase.csproj",
+        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+        "outputPath": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "W:\\AdaNuget_Publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfacesOfShapes\\LibInterfacesOfShapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfacesOfShapes\\LibInterfacesOfShapes.csproj",
+        "projectName": "LibInterfacesOfShapes",
+        "projectPath": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfacesOfShapes\\LibInterfacesOfShapes.csproj",
+        "packagesPath": "C:\\Users\\cheny\\.nuget\\packages\\",
+        "outputPath": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfacesOfShapes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "W:\\AdaNuget_Publish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\LibInterfaceCbbBase.csproj": {
+                "projectPath": "W:\\ProjectCSharp\\CbbDemos\\Graphics\\LibInterfaceCbbBase\\LibInterfaceCbbBase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
