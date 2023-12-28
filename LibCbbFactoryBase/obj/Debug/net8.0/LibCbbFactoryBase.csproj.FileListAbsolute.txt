@@ -1,0 +1,12 @@
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\bin\Debug\net8.0\LibCbbFactoryBase.deps.json
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\bin\Debug\net8.0\LibCbbFactoryBase.dll
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\bin\Debug\net8.0\LibCbbFactoryBase.pdb
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.GeneratedMSBuildEditorConfig.editorconfig
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.AssemblyInfoInputs.cache
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.AssemblyInfo.cs
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.csproj.CoreCompileInputs.cache
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.sourcelink.json
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.dll
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\refint\LibCbbFactoryBase.dll
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\LibCbbFactoryBase.pdb
+W:\ProjectCSharp\CbbDemos\LibCbbFactoryBase\obj\Debug\net8.0\ref\LibCbbFactoryBase.dll
